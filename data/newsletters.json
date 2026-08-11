@@ -1,0 +1,32 @@
+{
+"pulled":"July 20, 2026",
+"sources":[
+ {"name":"Vetted Sports","status":"readable","note":"Public weekly archive — richest deal source"},
+ {"name":"Front Office Sports / Asset Class","status":"via-search","note":"Articles public; reached via search"},
+ {"name":"Boardroom","status":"via-search","note":"Articles public; reached via search"},
+ {"name":"Sportico","status":"via-search","note":"Free articles public; some paywalled"},
+ {"name":"Regen Sports","status":"readable","note":"Sports-tech; titles + previews public"},
+ {"name":"Huddle Up","status":"readable","note":"Public archive (titles/figures)"}
+],
+"editions":[
+ {"newsletter":"Vetted Sports","date":"July 19, 2026","title":"Inside The $55 Million Bet On The Future Of Sportainment","url":"https://newsletter.vettedsports.com/","deals":["Bluestone invests $55M into Poolhouse","Ronin Capital Partners invests in Detroit City FC","SURJ announces new partnership"]},
+ {"newsletter":"Vetted Sports","date":"July 12, 2026","title":"Why A Media Company Spent $530M On A Golf-Tech Company","url":"https://newsletter.vettedsports.com/","deals":["Versant acquires Full Swing for $530M","Seattle Seahawks acquired for $9.6B","NBA point guard joins WNBA ownership group"]},
+ {"newsletter":"Vetted Sports","date":"June 21, 2026","title":"Why Alexis Ohanian Is Going All-In On College Trading Cards","url":"https://newsletter.vettedsports.com/","deals":["Seven Seven Six acquires ONIT Athlete","Steve Cohen backs WTGL New York (women's golf)","Enhanced Group raises $50M"]},
+ {"newsletter":"Vetted Sports","date":"June 7, 2026","title":"Inside MLB's Record-Breaking $3.9 Billion Sale","url":"https://newsletter.vettedsports.com/","deals":["San Diego Padres sold for $3.9B","Bryson DeChambeau acquires Sportsbox AI","Thrive Capital takes San Francisco Giants stake"]},
+ {"newsletter":"Vetted Sports","date":"May 24, 2026","title":"The New Leagues Chasing The UFC And The PPA","url":"https://newsletter.vettedsports.com/","deals":["Apollo & Dundon invest $225M in Pickleball Inc.","Global Fight League raises $60M","Mark Cuban buys into Brampton Honey Badgers"]},
+ {"newsletter":"Front Office Sports / Asset Class","date":"May 7, 2026","title":"Prediction Markets & Cricket Mega-Deals","url":"https://frontofficesports.com/newsletters/asset-class/","deals":["Coatue leads $1B round in Kalshi","Rajasthan Royals valued at $1.65B","Blackstone-led group buys Royal Challengers Bengaluru ($1.78B)"]},
+ {"newsletter":"Front Office Sports / Asset Class","date":"May 15, 2026","title":"Football Clubs & Fintech","url":"https://frontofficesports.com/newsletters/asset-class/","deals":["Silver Lake-led group takes 25% of the Las Vegas Raiders","Leiweke & Drake invest in Venezia FC (€100M)","EDGE Markets raises $29.2M Series A"]},
+ {"newsletter":"Front Office Sports / Asset Class","date":"June 24, 2026","title":"Women's Football & Athlete Finance","url":"https://frontofficesports.com/newsletters/asset-class/","deals":["Michele Kang agrees to buy Olympique Lyonnais","Working Capital Partners raises Series A (WTSL)","William Blair acquires Inner Circle Sports"]},
+ {"newsletter":"Boardroom","date":"May 1, 2026","title":"Pickleball's $225M Moment & DAZN's Tech Buy","url":"https://boardroom.tv/","deals":["Apollo & Tom Dundon invest $225M in pro pickleball","DAZN acquires ViewLift for $100M"]},
+ {"newsletter":"Boardroom","date":"June 15, 2026","title":"The Billion-Dollar Franchise Shuffle","url":"https://boardroom.tv/","deals":["Hoffmann family buys Pittsburgh Penguins ($1.7B)","Cristiano Ronaldo invests in streamer LiveMode"]},
+ {"newsletter":"Boardroom","date":"July 6, 2026","title":"Rogers Takes Full Control Of MLSE","url":"https://boardroom.tv/","deals":["Rogers acquires remaining MLSE stake ($3.06B)","Versant acquires Full Swing ($530M)"]},
+ {"newsletter":"Sportico","date":"May 1, 2026","title":"Team-Ops Software Hits $1.5B","url":"https://www.sportico.com/","deals":["Hg invests $200M in Teamworks","Greater Sum Ventures buys out Tapin2","Betterguards acquires Nextiles"]},
+ {"newsletter":"Sportico","date":"June 26, 2026","title":"SailGP, Fan Photos & Youth Golf","url":"https://www.sportico.com/","deals":["MSP Sports Capital buys majority of NZ SailGP (Black Foils)","Game Changers leads $4M seed in Swsh","Summit Ventures acquires X Games Club São Paulo","Bolt Ventures acquires Texas Junior Golf Tour"]},
+ {"newsletter":"Sportico","date":"July 3, 2026","title":"Shamrock Buys Into Swansea","url":"https://www.sportico.com/","deals":["Shamrock Capital takes a minority stake in Swansea City"]},
+ {"newsletter":"Regen Sports","date":"June 22, 2026","title":"Sports Tech Weekly (Wk 24): Gareth Bale Launches $500M Fund","url":"https://regensports.substack.com/","deals":["Gareth Bale + Juggernaut Capital launch $500M sports fund","Deltatre launches Nexus streaming platform"]},
+ {"newsletter":"Regen Sports","date":"July 6, 2026","title":"Sports Tech Weekly (Wk 26): Wearables & Officiating","url":"https://regensports.substack.com/","deals":["BGF invests £20M in Urban Zoo","ENGO raises €5.1M (smart eyewear)","XbotGo raises ~$14M (AI cameras)","APEX Capital seeds Hexis ($2.1M)"]},
+ {"newsletter":"Regen Sports","date":"July 13, 2026","title":"Sports Tech Weekly (Wk 27): Markets & Checkout","url":"https://regensports.substack.com/","deals":["Parlay Capital seeds SpeedLabs ($6.5M)","Traction Capital backs Refr Sports ($1M)","VisioLab raises $11M Series A"]},
+ {"newsletter":"Huddle Up","date":"March 31, 2026","title":"Inside Wrexham's Finances: Building a $450M Club","url":"https://huddleup.substack.com/","deals":["Wrexham AFC valued at ~$450M"]}
+],
+"deals_this_week":[]
+}
